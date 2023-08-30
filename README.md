@@ -3,7 +3,15 @@
 
 Adding another crafting chain for Mese crystal - making fake Mese crystals. So, not everyone player on early stages can found Mese crystals, and moreover Mese block. This mod can a little make it easier game, because crystals are hand-made copy of original, they will be have less energy, which are radiance - hence number of crafting items are halves.
 
+## Main ingredients:
+1) __Raw fake Mese crystal__ - raw likeness of future fake crystal, which looks gold-plated something. For next manipulations, crystal need to be burned in furnace.
+2) __Uncleaned fake Mese crytsal__ - was baked in furnace mini-rock, which be needs to clean by products of reaction in single machine (_Baked fake Mese Crystal cleaner_)
+3) __Fake Mese crystal__ - prepared, but not finished form of item. For fully transformation a copy in original needs if only 1 Mese Crystal, from which needs 3 fragments of him, for concentrating fake crystal. This operation is done in another work place (Concentrator for fake Mese crystals)
+4) __Fragment of fake Mese crystal
+
 [RU] 
+
+## О моде
 
 Добавление отдельных цепочек крафта для кристаллов Месе - создание поддельных кристаллов. Так, не каждый игрок на ранних этапах может найти кристаллы Месе, и тем более блок Месе. Данным небольшим модом можно немного облегчить игру, ибо кристаллы являются ручной копией оригинала, они будут обладать гораздо меньшей энергией, которую излучают - следовательно количество создаваемых предметов снижается вдвое.
 
