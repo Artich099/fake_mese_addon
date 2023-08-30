@@ -7,7 +7,12 @@ Adding another crafting chain for Mese crystal - making fake Mese crystals. So, 
 1) __Raw fake Mese crystal__ - raw likeness of future fake crystal, which looks gold-plated something. For next manipulations, crystal need to be burned in furnace.
 2) __Uncleaned fake Mese crytsal__ - was baked in furnace mini-rock, which be needs to clean by products of reaction in single machine (_Baked fake Mese Crystal cleaner_)
 3) __Fake Mese crystal__ - prepared, but not finished form of item. For fully transformation a copy in original needs if only 1 Mese Crystal, from which needs 3 fragments of him, for concentrating fake crystal. This operation is done in another work place (Concentrator for fake Mese crystals)
-4) __Fragment of fake Mese crystal
+4) __Fragment of fake Mese crystal__ - just like in the original, with small difference
+5) __Wooden cell__ - simple construction of sticks, which is fragment of cleaner for aked fake Mese crystals.
+6) __Concentrating Tube__ - element of concentrating agregate, which is concentrate fake crystals power of real Mese crystal
+
+## Agregates:
+1) __Cleaner for baked fake Mese crystal__ - 
 
 [RU] 
 
