@@ -12,7 +12,10 @@ Adding another crafting chain for Mese crystal - making fake Mese crystals. So, 
 6) __Concentrating Tube__ - element of concentrating agregate, which is concentrate fake crystals power of real Mese crystal
 
 ## Agregates:
-1) __Cleaner for baked fake Mese crystal__ - 
+1) __Cleaner for baked fake Mese crystal__ - agregate, which cleaning prepared in furnace raw fake crystals
+2) __Concentrator for fake Mese crystals__ - agregate, which transforming fake crystals in original by 3 fragments of Mese crystal
+
+
 
 [RU] 
 
@@ -30,7 +33,7 @@ Adding another crafting chain for Mese crystal - making fake Mese crystals. So, 
 
 ## Агрегаты:
 1) __Очиститель обожженого поддельного кристалла Месе__ - агрегат, призванный очистить обработанные в печи заготовки поддельных кристаллов для дальнейшего использования их в рецептах
-2) __Обогатитель для поддельных кристаллов Месе__ - агрегат, который превращает подделки в оригинал, путем насыщения оных энергией настоящего кристалла Месе
+2) __Обогатитель для поддельных кристаллов Месе__ - агрегат, который превращает подделки в оригинал, путем насыщения оных энергией настоящего кристалла Месе (нужно 3 куска кристалла Месе)
 
 ## Особенности использования данного мода с TechAge Modpack ([joe7575](https://github.com/joe7575/techage/))
 
